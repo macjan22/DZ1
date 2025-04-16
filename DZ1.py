@@ -116,7 +116,7 @@ def average_student_grade(students, course):
 
 def average_lecturer_grade(lecturers, course):
     '''
-    Функция для подсчета средней оценки студента.
+    Функция для подсчета средней оценки лектора.
     '''
     total = 0
     count = 0
